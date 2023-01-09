@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cat Cafe</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Cat Cafe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 31 Dec 2022 01:17:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carta de tés</title>
+      <link>http://localhost:1313/post/initial_post/</link>
+      <pubDate>Sat, 31 Dec 2022 01:17:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/post/initial_post/</guid>
+      <description>Tés disponibles: Blanco: Agujas de plata. Negro: Earl Gray. English Breakfast. Lapsa Suchong. Tarry Suchong. Ceylan con canela. Verde: Moruno. Gundpowder. Matcha. Matcha latte. Sencha. Pur eh: Crudo. Tostado. Oolong. Amarillo. </description>
+    </item>
+    
+  </channel>
+</rss>
